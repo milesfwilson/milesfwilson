@@ -19,10 +19,12 @@ I'm a full stack web developer, always striving for excellence in both design an
   <li>Kanban</li>
   
   </ul>
+  
+  <h4>Let's connect!</h4>
 <ul>
-  <li><a href="https://www.linkedin.com/in/milesfwilson/">Connect with me on LinkedIn</a></li>
+ <a href="https://www.linkedin.com/in/milesfwilson/">Connect with me on LinkedIn</a>
 
-  <li><a href="https://docs.google.com/spreadsheets/d/1grr1GdiDNl9cC1sX10U-b9Pc1a_vap70IblODbla2zc/edit?usp=sharing">Job Tracker</a></li>
+ <a href="https://docs.google.com/spreadsheets/d/1grr1GdiDNl9cC1sX10U-b9Pc1a_vap70IblODbla2zc/edit?usp=sharing">Job Tracker</a>
 </ul>
 
 <!--
