@@ -7,16 +7,16 @@ I'm a full stack web developer, always striving for excellence in both design an
  Currently 
  </h4>
  <ul>
-  <li>Moment</li>
+ <li><a href="https://github.com/milesfwilson/capstone">Moment</a></li>
   </ul>
  <h4>
  Projects 
  </h4>
  <ul>
-  <li>Tracker</li>
-  <li>Blogger</li>
-  <li>Inspire</li>
-  <li>Kanban</li>
+ <li><a href="https://github.com/milesfwilson/bugtracker">Tracker</a></li>
+ <li><a href="https://github.com/milesfwilson/vue-blogger">Blogger</a></li>
+ <li><a href="https://github.com/milesfwilson/inspire">Inspire</a></li>
+ <li><a href="https://github.com/ChrisGriffin0815/kanban">Kanban</a></li>
   
   </ul>
   
