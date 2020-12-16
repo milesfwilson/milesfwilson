@@ -1,6 +1,6 @@
 <div class="">
 <h3>Miles F. Wilson</h3>
-<span>JavaScript, HTML, CSS, Bootstrap, Vue.js, Node.js, C#, MongoDb</span>
+<span>JavaScript, HTML, CSS, Bootstrap, Vue.js, Node.js, C#, mySQL, MongoDb</span>
 <p> 
 I'm a driven, full stack web developer, always striving for excellence in both design and functionality. solving problems and learning new technologies come naturally to me. 
 </p>
@@ -9,6 +9,7 @@ Currently 🕓
  </h4>
  <ul>
  <li><a href="https://moment-capstone.herokuapp.com">Moment</a></li>
+  <li>Learning C# with mySQL</li>
   </ul>
  <h4>
 Projects 📚  
@@ -23,7 +24,7 @@ Projects 📚
   
   <h4>Let's connect! 📱  </h4>
 <ul>
- <li><a href="https://www.linkedin.com/in/milesfwilson/">Connect with me on LinkedIn!</a></li>
+ <li><a href="https://www.linkedin.com/in/milesfwilson/">LinkedIn</a></li>
  <li><a href="https://milesfwilson.github.io/">My Landing Page</a></li>
 </ul>
 </div>
