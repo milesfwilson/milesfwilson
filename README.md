@@ -5,13 +5,13 @@
 I'm a driven, full stack web developer, always striving for excellence in both design and functionality. solving problems and learning new technologies come naturally to me.
 </p>
 <h4>
-🕓 Currently
+🕓  Currently
  </h4>
  <ul>
  <li><a href="https://moment-capstone.herokuapp.com">Moment</a></li>
   </ul>
  <h4>
-📚 Projects 
+📚  Projects 
  </h4>
  <ul>
  <li><a href="https://github.com/milesfwilson/bugtracker">Tracker</a></li>
@@ -21,7 +21,7 @@ I'm a driven, full stack web developer, always striving for excellence in both d
   
   </ul>
   
-  <h4>📞 Let's connect!</h4>
+  <h4>📞  Let's connect!</h4>
 <ul>
  <li><a href="https://www.linkedin.com/in/milesfwilson/">Connect with me on LinkedIn!</a></li>
  <li><a href="https://milesfwilson.github.io/">My Landing Page</a></li>
