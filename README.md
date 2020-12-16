@@ -2,7 +2,7 @@
 <h3>Miles F. Wilson</h3>
 <span>JavaScript, HTML, CSS, Bootstrap, Vue.js, Node.js, C#, mySQL, MongoDb</span>
 <p> 
-I'm a driven, full stack web developer, always striving for excellence in both design and functionality. solving problems and learning new technologies come naturally to me. 
+I'm a driven, full stack web developer, always striving for excellence in both design and functionality. Solving problems and learning new technologies come naturally to me. 
 </p>
 <h4>
 Currently 🕓
