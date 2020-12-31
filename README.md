@@ -26,6 +26,13 @@ Projects 📚
 <ul>
  <li><a href="https://www.linkedin.com/in/milesfwilson/">LinkedIn</a></li>
  <li><a href="https://milesfwilson.github.io/">My Landing Page</a></li>
+ <li><a href="https://drive.google.com/file/d/1NB_LHV1WkgtbgEZSnZmXpHFDFy8mD9uv/view?usp=sharing">Resume</a></li>
+</ul>
+
+<h4>Career Progress </h4>
+<ul>
+ <li><a href="https://docs.google.com/spreadsheets/d/1ZNJTrC36kptnhfRU3DPqwQWniOUOuSG970w1_ZK2FPI/edit?usp=sharing">Connections</a></li>
+ <li><a href="https://docs.google.com/document/d/19lUOPsi77VBhMCLbGc-ubzaCo11tC2VvKngG1tscPpk/edit?usp=sharing">STAR Qs</a></li>
 </ul>
 </div>
 <!--
