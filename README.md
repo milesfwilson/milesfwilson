@@ -33,6 +33,7 @@ Projects 📚
 <ul>
  <li><a href="https://docs.google.com/spreadsheets/d/1ZNJTrC36kptnhfRU3DPqwQWniOUOuSG970w1_ZK2FPI/edit?usp=sharing">Connections</a></li>
  <li><a href="https://docs.google.com/document/d/19lUOPsi77VBhMCLbGc-ubzaCo11tC2VvKngG1tscPpk/edit?usp=sharing">STAR Qs</a></li>
+<li><a href="https://drive.google.com/file/d/1QIJ_04ex9F9prHK1i0F2IS9W3KkkJKZd/view?usp=sharing">Elevator Pitch</a></li>
 </ul>
 </div>
 <!--
