@@ -8,8 +8,7 @@ I'm a driven, full stack web developer, always striving for excellence in both d
 Currently 🕓
  </h4>
  <ul>
- <li><a href="https://moment-capstone.herokuapp.com">Moment</a></li>
-  <li>Learning C# with mySQL</li>
+  <li>Working at In Time Tec.</li>
   </ul>
  <h4>
 Projects 📚  
@@ -29,12 +28,6 @@ Projects 📚
  <li><a href="https://drive.google.com/file/d/1NB_LHV1WkgtbgEZSnZmXpHFDFy8mD9uv/view?usp=sharing">Resume</a></li>
 </ul>
 
-<h4>Career Progress </h4>
-<ul>
- <li><a href="https://docs.google.com/spreadsheets/d/1ZNJTrC36kptnhfRU3DPqwQWniOUOuSG970w1_ZK2FPI/edit?usp=sharing">Connections</a></li>
- <li><a href="https://docs.google.com/document/d/19lUOPsi77VBhMCLbGc-ubzaCo11tC2VvKngG1tscPpk/edit?usp=sharing">STAR Qs</a></li>
-<li><a href="https://drive.google.com/file/d/1QIJ_04ex9F9prHK1i0F2IS9W3KkkJKZd/view?usp=sharing">Elevator Pitch</a></li>
-</ul>
 </div>
 <!--
 **milesfwilson/milesfwilson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
